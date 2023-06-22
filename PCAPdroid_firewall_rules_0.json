@@ -1,0 +1,68 @@
+{
+  "rules": [
+    {
+      "type": "HOST",
+      "value": "mtalk.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "android.apis.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "googleadservices.com"
+    },
+    {
+      "type": "HOST",
+      "value": "adservice.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "googleads.g.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "tpc.googlesyndication.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ssl.google-analytics.com"
+    },
+    {
+      "type": "HOST",
+      "value": "google-analytics.com"
+    },
+    {
+      "type": "HOST",
+      "value": "gstatic.com"
+    },
+    {
+      "type": "HOST",
+      "value": "googlesyndication.com"
+    },
+    {
+      "type": "HOST",
+      "value": "domains.googlesyndication.com"
+    },
+    {
+      "type": "HOST",
+      "value": "speechs3proto2-pa.googleapis.com"
+    },
+    {
+      "type": "HOST",
+      "value": "_thums.ero-advertising.com"
+    },
+    {
+      "type": "HOST",
+      "value": "0.fls.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "0.r.msn.com"
+    }
+  ]
+}
