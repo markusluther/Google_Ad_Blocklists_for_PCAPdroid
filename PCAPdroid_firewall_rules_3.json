@@ -1,0 +1,372 @@
+{
+  "rules": [
+    {
+      "type": "HOST",
+      "value": "mtalk.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "android.apis.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "googleadservices.com"
+    },
+    {
+      "type": "HOST",
+      "value": "adservice.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "googleads.g.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "tpc.googlesyndication.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ssl.google-analytics.com"
+    },
+    {
+      "type": "HOST",
+      "value": "google-analytics.com"
+    },
+    {
+      "type": "HOST",
+      "value": "gstatic.com"
+    },
+    {
+      "type": "HOST",
+      "value": "googlesyndication.com"
+    },
+    {
+      "type": "HOST",
+      "value": "domains.googlesyndication.com"
+    },
+    {
+      "type": "HOST",
+      "value": "_thums.ero-advertising.com"
+    },
+    {
+      "type": "HOST",
+      "value": "0.fls.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "0.r.msn.com"
+    },
+    {
+      "type": "HOST",
+      "value": "beacons.gcp.gvt2.com"
+    },
+    {
+      "type": "HOST",
+      "value": "graph.instagram.com"
+    },
+    {
+      "type": "HOST",
+      "value": "graph.facebook.com"
+    },
+    {
+      "type": "HOST",
+      "value": "mqtt-mini.facebook.com"
+    },
+    {
+      "type": "HOST",
+      "value": "instagram.fbey23-1.fna.fbcdn.net"
+    },
+    {
+      "type": "HOST",
+      "value": "49.44.102.239"
+    },
+    {
+      "type": "HOST",
+      "value": "firebaselogging-pa.googleapis.com"
+    },
+    {
+      "type": "HOST",
+      "value": "firebaseremoteconfig.googleapis.com"
+    },
+    {
+      "type": "HOST",
+      "value": "update.googleapis.com"
+    },
+    {
+      "type": "HOST",
+      "value": "firebase-settings.crashlytics.com"
+    },
+    {
+      "type": "HOST",
+      "value": "connectivitycheck.gstatic.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ads.youtube.com"
+    },
+    {
+      "type": "HOST",
+      "value": "s0.2mdn.net"
+    },
+    {
+      "type": "HOST",
+      "value": "s1.2mdn.net"
+    },
+    {
+      "type": "HOST",
+      "value": "pubads.g.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "ad.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "static.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "googletagservices.com"
+    },
+    {
+      "type": "HOST",
+      "value": "www-googletagmanager.l.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "www-google-analytics.l.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "analytic-google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "stats.g.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "s.innovid.com"
+    },
+    {
+      "type": "HOST",
+      "value": "securepubads.g.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "secure-ds.serving-sys.com"
+    },
+    {
+      "type": "HOST",
+      "value": "rtd.tubemogul.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsenez.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsenez.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsenes.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsenes.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsenel.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsenel.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsenee.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsenee.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsened.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsened.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsene6.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsene6.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsen7z.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsen7z.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsen7y.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsen7y.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsen7s.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsen7s.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsen7r.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsen7r.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsen7l.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsen7l.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsen7k.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsen7k.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsen7e.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsen7e.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsen7d.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsen7d.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsen76.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqsen76.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqs7ner.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqs7ner.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqs7nel.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqs7nel.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqs7nek.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqs7nek.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqs7nee.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqs7nee.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqs7ned.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqs7ned.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqs7ne7.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqs7ne7.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqs7ne6.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqs7ne6.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqs7n7z.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqs7n7z.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqs7n7y.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9.sn-vgqs7n7y.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "yt3.ggpht.com"
+    },
+    {
+      "type": "HOST",
+      "value": "suggestqueries.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "rr1---sn-cgxqc5oqufv-5goe.googlevideo.com"
+    }
+  ]
+}
