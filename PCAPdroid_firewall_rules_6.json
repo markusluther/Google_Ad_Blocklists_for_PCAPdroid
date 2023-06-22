@@ -1,0 +1,676 @@
+{
+  "rules": [
+    {
+      "type": "HOST",
+      "value": "mtalk.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "android.apis.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "googleadservices.com"
+    },
+    {
+      "type": "HOST",
+      "value": "adservice.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "googleads.g.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "tpc.googlesyndication.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ssl.google-analytics.com"
+    },
+    {
+      "type": "HOST",
+      "value": "google-analytics.com"
+    },
+    {
+      "type": "HOST",
+      "value": "gstatic.com"
+    },
+    {
+      "type": "HOST",
+      "value": "googlesyndication.com"
+    },
+    {
+      "type": "HOST",
+      "value": "domains.googlesyndication.com"
+    },
+    {
+      "type": "HOST",
+      "value": "_thums.ero-advertising.com"
+    },
+    {
+      "type": "HOST",
+      "value": "0.fls.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "0.r.msn.com"
+    },
+    {
+      "type": "HOST",
+      "value": "beacons.gcp.gvt2.com"
+    },
+    {
+      "type": "HOST",
+      "value": "graph.instagram.com"
+    },
+    {
+      "type": "HOST",
+      "value": "graph.facebook.com"
+    },
+    {
+      "type": "HOST",
+      "value": "mqtt-mini.facebook.com"
+    },
+    {
+      "type": "HOST",
+      "value": "instagram.fbey23-1.fna.fbcdn.net"
+    },
+    {
+      "type": "HOST",
+      "value": "49.44.102.239"
+    },
+    {
+      "type": "HOST",
+      "value": "firebaselogging-pa.googleapis.com"
+    },
+    {
+      "type": "HOST",
+      "value": "firebaseremoteconfig.googleapis.com"
+    },
+    {
+      "type": "HOST",
+      "value": "update.googleapis.com"
+    },
+    {
+      "type": "HOST",
+      "value": "firebase-settings.crashlytics.com"
+    },
+    {
+      "type": "HOST",
+      "value": "connectivitycheck.gstatic.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ads.youtube.com"
+    },
+    {
+      "type": "HOST",
+      "value": "s0.2mdn.net"
+    },
+    {
+      "type": "HOST",
+      "value": "s1.2mdn.net"
+    },
+    {
+      "type": "HOST",
+      "value": "pubads.g.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "ad.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "static.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "googletagservices.com"
+    },
+    {
+      "type": "HOST",
+      "value": "www-googletagmanager.l.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "www-google-analytics.l.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "analytic-google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "stats.g.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "s.innovid.com"
+    },
+    {
+      "type": "HOST",
+      "value": "securepubads.g.doubleclick.net"
+    },
+    {
+      "type": "HOST",
+      "value": "secure-ds.serving-sys.com"
+    },
+    {
+      "type": "HOST",
+      "value": "rtd.tubemogul.com"
+    },
+    {
+      "type": "HOST",
+      "value": "r9---sn-vgqsenez.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "yt3.ggpht.com"
+    },
+    {
+      "type": "HOST",
+      "value": "suggestqueries.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "rr1---sn-cgxqc5oqufv-5goe.googlevideo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "54nije.tdum.alibaba.com"
+    },
+    {
+      "type": "HOST",
+      "value": "5ac12-a1275.api.pushwoosh.com"
+    },
+    {
+      "type": "HOST",
+      "value": "733868e706dd40d3a4a0588fc39b3df8.pacloudflare.com"
+    },
+    {
+      "type": "HOST",
+      "value": "a-fds.youborafds01.com"
+    },
+    {
+      "type": "HOST",
+      "value": "a1089.dscd.akamai.net"
+    },
+    {
+      "type": "HOST",
+      "value": "a1887.dscq.akamai.net"
+    },
+    {
+      "type": "HOST",
+      "value": "a1944.dscr.akamai.net"
+    },
+    {
+      "type": "HOST",
+      "value": "acstat.com"
+    },
+    {
+      "type": "HOST",
+      "value": "analytics.uma.tech"
+    },
+    {
+      "type": "HOST",
+      "value": "analytics.zxz.su"
+    },
+    {
+      "type": "HOST",
+      "value": "hotjar.com"
+    },
+    {
+      "type": "HOST",
+      "value": "adtago.s3.amazonaws.com"
+    },
+    {
+      "type": "HOST",
+      "value": "analyticsengine.s3.amazonaws.com"
+    },
+    {
+      "type": "HOST",
+      "value": "analytics.s3.amazonaws.com"
+    },
+    {
+      "type": "HOST",
+      "value": "advice-ads.s3.amazonaws.com"
+    },
+    {
+      "type": "HOST",
+      "value": "advertising-api-eu.amazon.com"
+    },
+    {
+      "type": "HOST",
+      "value": "app-measurement.com"
+    },
+    {
+      "type": "HOST",
+      "value": "settings.luckyorange.net"
+    },
+    {
+      "type": "HOST",
+      "value": "cs.luckyorange.net"
+    },
+    {
+      "type": "HOST",
+      "value": "upload.luckyorange.net"
+    },
+    {
+      "type": "HOST",
+      "value": "w1.luckyorange.com"
+    },
+    {
+      "type": "HOST",
+      "value": "cdn.luckyorange.com"
+    },
+    {
+      "type": "HOST",
+      "value": "realtime.luckyorange.com"
+    },
+    {
+      "type": "HOST",
+      "value": "api.luckyorange.com"
+    },
+    {
+      "type": "HOST",
+      "value": "luckyorange.com"
+    },
+    {
+      "type": "HOST",
+      "value": "cdn-test.mouseflow.com"
+    },
+    {
+      "type": "HOST",
+      "value": "tools.mouseflow.com"
+    },
+    {
+      "type": "HOST",
+      "value": "mouseflow.com"
+    },
+    {
+      "type": "HOST",
+      "value": "click.googleanalytics.com"
+    },
+    {
+      "type": "HOST",
+      "value": "analytics.google.com"
+    },
+    {
+      "type": "HOST",
+      "value": "wd.adcolony.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ads30.adcolony.com"
+    },
+    {
+      "type": "HOST",
+      "value": "media.net"
+    },
+    {
+      "type": "HOST",
+      "value": "freshmarketer.com"
+    },
+    {
+      "type": "HOST",
+      "value": "events.hotjar.io"
+    },
+    {
+      "type": "HOST",
+      "value": "fwtracks.freshmarketer.com"
+    },
+    {
+      "type": "HOST",
+      "value": "claritybt.freshmarketer.com"
+    },
+    {
+      "type": "HOST",
+      "value": "stats.wp.com"
+    },
+    {
+      "type": "HOST",
+      "value": "app.bugsnag.com"
+    },
+    {
+      "type": "HOST",
+      "value": "api.bugsnag.com"
+    },
+    {
+      "type": "HOST",
+      "value": "sessions.bugsnag.com"
+    },
+    {
+      "type": "HOST",
+      "value": "notify.bugsnag.com"
+    },
+    {
+      "type": "HOST",
+      "value": "app.getsentry.com"
+    },
+    {
+      "type": "HOST",
+      "value": "browser.sentry-cdn.com"
+    },
+    {
+      "type": "HOST",
+      "value": "an.facebook.com"
+    },
+    {
+      "type": "HOST",
+      "value": "pixel.facebook.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ads.linkedin.com"
+    },
+    {
+      "type": "HOST",
+      "value": "log.byteoversea.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ads.tiktok.com"
+    },
+    {
+      "type": "HOST",
+      "value": "business-api.tiktok.com"
+    },
+    {
+      "type": "HOST",
+      "value": "analytics-sg.tiktok.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ads-sg.tiktok.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ads-api.tiktok.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ads-api.twitter.com"
+    },
+    {
+      "type": "HOST",
+      "value": "static.ads-twitter.com"
+    },
+    {
+      "type": "HOST",
+      "value": "analytics.pinterest.com"
+    },
+    {
+      "type": "HOST",
+      "value": "log.pinterest.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ads.pinterest.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ads.yahoo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "analytics.yahoo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "geo.yahoo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "udc.yahoo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "udcm.yahoo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "advertising.yahoo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "analytics.query.yahoo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "partnerads.ysm.yahoo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "log.fc.yahoo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "gemini.yahoo.com"
+    },
+    {
+      "type": "HOST",
+      "value": "adtech.yahooinc.com"
+    },
+    {
+      "type": "HOST",
+      "value": "adfox.yandex.ru"
+    },
+    {
+      "type": "HOST",
+      "value": "advertising.yandex.ru"
+    },
+    {
+      "type": "HOST",
+      "value": "metrika.yandex.ru"
+    },
+    {
+      "type": "HOST",
+      "value": "adfstat.yandex.ru"
+    },
+    {
+      "type": "HOST",
+      "value": "appmetrica.yandex.ru"
+    },
+    {
+      "type": "HOST",
+      "value": "extmaps-api.yandex.net"
+    },
+    {
+      "type": "HOST",
+      "value": "adserver.unityads.unity3d.com"
+    },
+    {
+      "type": "HOST",
+      "value": "config.unityads.unity3d.com"
+    },
+    {
+      "type": "HOST",
+      "value": "advertising.apple.com"
+    },
+    {
+      "type": "HOST",
+      "value": "tr.iadsdk.apple.com"
+    },
+    {
+      "type": "HOST",
+      "value": "iadsdk.apple.com"
+    },
+    {
+      "type": "HOST",
+      "value": "metrics.icloud.com"
+    },
+    {
+      "type": "HOST",
+      "value": "metrics.mzstatic.com"
+    },
+    {
+      "type": "HOST",
+      "value": "api-adservices.apple.com"
+    },
+    {
+      "type": "HOST",
+      "value": "books-analytics-events.apple.com"
+    },
+    {
+      "type": "HOST",
+      "value": "weather-analytics-events.apple.com"
+    },
+    {
+      "type": "HOST",
+      "value": "notes-analytics-events.apple.com"
+    },
+    {
+      "type": "HOST",
+      "value": "api.ad.xiaomi.com"
+    },
+    {
+      "type": "HOST",
+      "value": "events3alt.adcolony.com"
+    },
+    {
+      "type": "HOST",
+      "value": "adc3-launch.adcolony.com"
+    },
+    {
+      "type": "HOST",
+      "value": "analytics.tiktok.com"
+    },
+    {
+      "type": "HOST",
+      "value": "events.redditmedia.com"
+    },
+    {
+      "type": "HOST",
+      "value": "events.reddit.com"
+    },
+    {
+      "type": "HOST",
+      "value": "widgets.pinterest.com"
+    },
+    {
+      "type": "HOST",
+      "value": "trk.pinterest.com"
+    },
+    {
+      "type": "HOST",
+      "value": "webview.unityads.unity3d.com"
+    },
+    {
+      "type": "HOST",
+      "value": "auction.unityads.unity3d.com"
+    },
+    {
+      "type": "HOST",
+      "value": "data.ads.oppomobile.com"
+    },
+    {
+      "type": "HOST",
+      "value": "ck.ads.oppomobile.com"
+    },
+    {
+      "type": "HOST",
+      "value": "adx.ads.oppomobile.com"
+    },
+    {
+      "type": "HOST",
+      "value": "adsfs.oppomobile.com"
+    },
+    {
+      "type": "HOST",
+      "value": "bdapi-in-ads.realmemobile.com"
+    },
+    {
+      "type": "HOST",
+      "value": "bdapi-ads.realmemobile.com"
+    },
+    {
+      "type": "HOST",
+      "value": "iot-logser.realme.com"
+    },
+    {
+      "type": "HOST",
+      "value": "iot-eu-logser.realme.com"
+    },
+    {
+      "type": "HOST",
+      "value": "metrics2.data.hicloud.com"
+    },
+    {
+      "type": "HOST",
+      "value": "metrics.data.hicloud.com"
+    },
+    {
+      "type": "HOST",
+      "value": "tracking.rus.miui.com"
+    },
+    {
+      "type": "HOST",
+      "value": "globalapi.ad.xiaomi.com"
+    },
+    {
+      "type": "HOST",
+      "value": "sdkconfig.ad.intl.xiaomi.com"
+    },
+    {
+      "type": "HOST",
+      "value": "sdkconfig.ad.xiaomi.com"
+    },
+    {
+      "type": "HOST",
+      "value": "data.mistat.rus.xiaomi.com"
+    },
+    {
+      "type": "HOST",
+      "value": "data.mistat.india.xiaomi.com"
+    },
+    {
+      "type": "HOST",
+      "value": "data.mistat.xiaomi.com"
+    },
+    {
+      "type": "HOST",
+      "value": "analytics-api.samsunghealthcn.com"
+    },
+    {
+      "type": "HOST",
+      "value": "smetrics.samsung.com"
+    },
+    {
+      "type": "HOST",
+      "value": "samsungads.com"
+    },
+    {
+      "type": "HOST",
+      "value": "logbak.hicloud.com"
+    },
+    {
+      "type": "HOST",
+      "value": "logservice1.hicloud.com"
+    },
+    {
+      "type": "HOST",
+      "value": "logservice.hicloud.com"
+    },
+    {
+      "type": "HOST",
+      "value": "grs.hicloud.com"
+    },
+    {
+      "type": "HOST",
+      "value": "open.oneplus.net"
+    },
+    {
+      "type": "HOST",
+      "value": "click.oneplus.cn"
+    },
+    {
+      "type": "HOST",
+      "value": "samsung-com.112.2o7.net"
+    }
+  ]
+}
