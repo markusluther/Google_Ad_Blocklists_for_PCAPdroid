@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "type": "APP",
+      "value": "root"
+    },
+    {
+      "type": "APP",
+      "value": "android"
+    },
+    {
+      "type": "APP",
+      "value": "com.emanuelef.remote_capture"
+    },
+    {
+      "type": "APP",
+      "value": "com.google.android.gms"
+    },
+    {
+      "type": "APP",
+      "value": "com.google.android.ims"
+    },
+    {
+      "type": "APP",
+      "value": "partl.atomicclock"
+    }
+  ]
+}
