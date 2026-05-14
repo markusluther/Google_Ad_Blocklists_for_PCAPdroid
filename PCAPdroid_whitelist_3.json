@@ -1,0 +1,8 @@
+{
+  "rules": [
+    {
+      "type": "APP",
+      "value": "partl.atomicclock"
+    }
+  ]
+}
